@@ -1,4 +1,4 @@
-# Hola mundo 🫣🫣 me llamo Lucía Ríos
+# Hola mundo 🫣🫣 me llamo ***Lucía Ríos***
 ___
 #### Soy estudiante de nivel secundario 👩🏻‍🏫 actualmente cursando mi último año con orientación en informática.
 #### Soy de Salta, Argentina y me gustaría aprender muchas más habilidades informáticas 👩🏻‍💻
