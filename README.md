@@ -21,4 +21,4 @@ ___
 4. Aprobar el curso de Generación  T
 ___
 ## Lenguajes que manejo (mentira)
-![Python]()![image](https://github.com/LuciaRioss/LuciaRioss/assets/171263470/ba1c4ff1-b829-491d-aa02-5dba02d6e8d0)
+![Python](https://github.com/LuciaRioss/LuciaRioss/assets/171263470/ba1c4ff1-b829-491d-aa02-5dba02d6e8d0)
